@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-using-js-Vm15gO4k03)
+- Live Site URL: [Live site URL here](https://chamindud.github.io/Interactive-rating-component/)
 
 ## My process
 
